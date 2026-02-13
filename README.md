@@ -7,8 +7,10 @@
 Este repositório centraliza a documentação visual e os diagramas de fluxo do ecossistema **Papuguinho**.
 
 ### Diagramas de Sequência: 
-`1. Criar Pictograma:` Detalha o processo de criação de um símbolo, desde a interface até o backend.
+`1. Criar Pictograma:` Detalha o processo de criação de um pictograma, desde a interface até o backend.
 
 ![Diagrama de Sequência](img/sequenciaCriarPictograma.png)
 
+`2. Acessar Histórico:` Detalha o processo de acesso ao histórico e sua consulta ao banco de dados. 
 
+![Diagrama de Sequência](img/sequenciaHistorico.png)
