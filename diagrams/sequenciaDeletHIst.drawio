@@ -50,9 +50,6 @@
         <mxCell id="JAu80KCkWv7qmcl9zL7w-15" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" value="alt" vertex="1">
           <mxGeometry height="200" width="730" x="30" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="JAu80KCkWv7qmcl9zL7w-16" parent="1" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
-          <mxGeometry height="8" width="40" x="420" y="210" as="geometry" />
-        </mxCell>
         <mxCell id="JAu80KCkWv7qmcl9zL7w-18" parent="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" value="&lt;font style=&quot;font-weight: normal; font-size: 11px;&quot;&gt;[usuário confirmou exclusão]&lt;/font&gt;" vertex="1">
           <mxGeometry height="26" width="80" x="70" y="287" as="geometry" />
         </mxCell>
