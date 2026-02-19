@@ -101,12 +101,6 @@
         <mxCell id="JAu80KCkWv7qmcl9zL7w-34" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="60" width="10" x="190" y="370" as="geometry" />
         </mxCell>
-        <mxCell id="JAu80KCkWv7qmcl9zL7w-35" edge="1" parent="1" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" value="">
-          <mxGeometry relative="1" width="160" as="geometry">
-            <mxPoint x="380" y="290" as="sourcePoint" />
-            <mxPoint x="575" y="290" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="JAu80KCkWv7qmcl9zL7w-36" edge="1" parent="1" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" value="">
           <mxGeometry relative="1" width="160" as="geometry">
             <mxPoint x="200" y="390" as="sourcePoint" />
