@@ -14,3 +14,8 @@ Este repositório centraliza a documentação visual e os diagramas de fluxo do 
 `2. Acessar Histórico:` Detalha o processo de acesso ao histórico e sua consulta ao banco de dados. 
 
 ![Diagrama de Sequência](img/sequenciaHistorico.png)
+
+
+`2. Deletar Histórico:` Detalha o processo de deletar o histórico. 
+
+![Diagrama de Sequência](img/sequenciaDeletHist.png)
