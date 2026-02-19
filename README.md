@@ -19,3 +19,10 @@ Este repositório centraliza a documentação visual e os diagramas de fluxo do 
 `3. Deletar Histórico:` Detalha o processo de deletar o histórico. 
 
 ![Diagrama de Sequência](img/sequenciaDeletHIst.png)
+
+
+### Diagramas de Estado: 
+
+`1. Modo Infantil:` Detalha o estado de ativação e desativação do modo infantil. 
+
+![Diagrama de Sequência](img/estadoKidMode.png)
