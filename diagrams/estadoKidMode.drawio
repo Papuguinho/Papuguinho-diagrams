@@ -1,9 +1,87 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 OPR/126.0.0.0" version="29.4.0">
   <diagram name="Página-1" id="pD5ZX01fHRIqbb7EMsxd">
-    <mxGraphModel>
+    <mxGraphModel dx="1040" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Jzx9lV528lLGKAMGTTa4-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" value="É android" vertex="1">
+          <mxGeometry height="40" width="80" x="80" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Jzx9lV528lLGKAMGTTa4-4" edge="1" parent="1" source="Jzx9lV528lLGKAMGTTa4-3" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" value="Sim">
+          <mxGeometry relative="1" x="-1" as="geometry">
+            <mxPoint x="260" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jzx9lV528lLGKAMGTTa4-5" edge="1" parent="1" source="Jzx9lV528lLGKAMGTTa4-3" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" value="Não">
+          <mxGeometry relative="1" x="-1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="120" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jzx9lV528lLGKAMGTTa4-7" parent="1" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="270" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="Jzx9lV528lLGKAMGTTa4-8" edge="1" parent="1" source="Jzx9lV528lLGKAMGTTa4-7" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jzx9lV528lLGKAMGTTa4-9" parent="1" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="105" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Jzx9lV528lLGKAMGTTa4-10" parent="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Clicar em &quot;Ativar modo infantil&quot;&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="26" width="80" x="350" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Jzx9lV528lLGKAMGTTa4-11" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" value="Confirmar" vertex="1">
+          <mxGeometry height="40" width="80" x="500" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Jzx9lV528lLGKAMGTTa4-12" edge="1" parent="1" source="Jzx9lV528lLGKAMGTTa4-11" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" value="Não">
+          <mxGeometry relative="1" x="-1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="680" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jzx9lV528lLGKAMGTTa4-13" edge="1" parent="1" source="Jzx9lV528lLGKAMGTTa4-11" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Jzx9lV528lLGKAMGTTa4-19" value="Sim">
+          <mxGeometry relative="1" x="-1" as="geometry">
+            <mxPoint x="540" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jzx9lV528lLGKAMGTTa4-16" parent="1" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="690" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="Jzx9lV528lLGKAMGTTa4-19" parent="1" style="swimlane;fontStyle=0;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;fontSize=11;" value="Escondendo barra do sistema android" vertex="1">
+          <mxGeometry height="60" width="200" x="450" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Jzx9lV528lLGKAMGTTa4-20" parent="Jzx9lV528lLGKAMGTTa4-19" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" value="do/esconderBarraSistema" vertex="1">
+          <mxGeometry height="30" width="200" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jzx9lV528lLGKAMGTTa4-21" edge="1" parent="1" source="Jzx9lV528lLGKAMGTTa4-19" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jzx9lV528lLGKAMGTTa4-22" parent="1" style="swimlane;fontStyle=0;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;fontSize=11;" value="Fixando a tela no app" vertex="1">
+          <mxGeometry height="60" width="160" x="460" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Jzx9lV528lLGKAMGTTa4-23" parent="Jzx9lV528lLGKAMGTTa4-22" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" value="do/ativarFixacaoAndroid" vertex="1">
+          <mxGeometry height="30" width="160" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jzx9lV528lLGKAMGTTa4-24" edge="1" parent="1" source="Jzx9lV528lLGKAMGTTa4-22" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jzx9lV528lLGKAMGTTa4-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;align=center;" value="Navegando para prancha principal" vertex="1">
+          <mxGeometry height="40" width="170" x="460" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="Jzx9lV528lLGKAMGTTa4-26" edge="1" parent="1" source="Jzx9lV528lLGKAMGTTa4-25" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jzx9lV528lLGKAMGTTa4-27" parent="1" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="360" y="465" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
