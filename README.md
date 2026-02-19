@@ -16,6 +16,6 @@ Este repositório centraliza a documentação visual e os diagramas de fluxo do 
 ![Diagrama de Sequência](img/sequenciaHistorico.png)
 
 
-`2. Deletar Histórico:` Detalha o processo de deletar o histórico. 
+`3. Deletar Histórico:` Detalha o processo de deletar o histórico. 
 
-![Diagrama de Sequência](img/sequenciaDeletHist.png)
+![Diagrama de Sequência](img/sequenciaDeletHIst.png)
